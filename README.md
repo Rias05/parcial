@@ -30,7 +30,7 @@ Se llama a printCount(countDigit) para mostrar el número actual en los displays
 # FUNCION PRINCIPAL:
 
   la función principal del proyecto se adapta a dos modos de operación diferentes: contar o mostrar números primos, dependiendo de la posición del interruptor "RESET_SWITCH." La principal función en el modo de contador es el conteo, y en el modo de números primos, es la identificación y visualización de números primos.
-# PARTE 3:
+# PARTE 3: sensor de luz ambiental
 
 # DESCRIPCION:
 el código controla la visualización de números primos en un display de siete segmentos y ajusta el brillo en función de la luz ambiental detectada. La funcionalidad exacta depende de la posición del interruptor de reinicio y de las interacciones con los botones, lo que permite mostrar y controlar números primos de manera interactiva.
