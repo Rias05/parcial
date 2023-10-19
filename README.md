@@ -1,1 +1,4 @@
-# parcial
+INTEGRATES:
+- justin prado
+- eybraham perez
+  
